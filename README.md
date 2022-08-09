@@ -1,1 +1,1 @@
-# KNN_Prediction_of_Death_MIMIC
+# Probability of Death Using KNN
